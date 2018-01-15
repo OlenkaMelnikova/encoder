@@ -1,0 +1,9 @@
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\bin\Debug\курсач.exe
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\bin\Debug\курсач.pdb
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\obj\x86\Debug\encoder.Form1.resources
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\obj\x86\Debug\encoder.Form2.resources
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\obj\x86\Debug\курсач.Properties.Resources.resources
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\obj\x86\Debug\encoder.csproj.GenerateResource.Cache
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\obj\x86\Debug\encoder.csproj.CoreCompileInputs.cache
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\obj\x86\Debug\курсач.exe
+C:\Users\Оля\Desktop\Шифр Цезаря-Шифр Виженера - ghj,yfz dthcbz\Шифр Цезаря-Шифр Виженера\курсач\obj\x86\Debug\курсач.pdb
